@@ -1,0 +1,20 @@
+{
+  "name": "DiscordStream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^10.0.0",
+    "selenium-webdriver": "^4.0.0-beta.4",
+    "youtube-dl-wrap": "^2.1.0",
+    "ytdl-core": "^4.11.0"
+  }
+}
